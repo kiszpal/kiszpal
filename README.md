@@ -1,41 +1,43 @@
-# Hi, I'm Pál! 👋  
-### AI • Python • Data Science • Microcontrollers  
-*(English below)*
+# Hi, I'm Pál Kiszel 👋
 
-## 🇭🇺 Rólam
-Mérnökinformatikus BSc diplomával rendelkezem, jelenleg pedig a Programtervező Informatikus MSc képzést végzem – mindkettőt a **Szegedi Tudományegyetemen (SZTE)**.  
-AI-alapú megoldásokkal, Python fejlesztéssel és adatvezérelt projektekkel foglalkozom.  
-Emellett mikrovezérlős rendszerekkel is szívesen dolgozom.
+**Computer Science Engineer (BSc, University of Szeged)** looking for a **software development / QA** role.
 
-A szakmai oldalam mellett egy kicsit a „másik életem” is színes:
-- 🎆 **Pirotechnikus** vagyok – minden évben dolgozom az **augusztus 20-i Szent István-napi tűzijátékon**  
-- 🎇 Év végén pirotechnikai árusítással foglalkozom  
-- 🪂 Korábban **ejtőernyőztem**, és szeretném újra folytatni  
+Since 2022 I have been working as a **Research Associate at the University of Szeged (SZTE)** on Python-based AI and computer vision projects for industrial, medical and automotive partners: dataset annotation and verification, object detection model training, validation and testing, Streamlit interfaces for data visualization, and technical documentation.
 
-Kedvelem azokat a projekteket, ahol fejleszteni és adatot feldolgozni lehet.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiszelpal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiszelpal/)
 
-## 🛠️ Főbb területek
-- **Python** (adatfeldolgozás, ML, automatizáció)
-- **AI / gépi tanulás**
-- **Data science**
-- **Embedded / microcontrollers**
+## What I work with
+
+| Area | Tools |
+|---|---|
+| Programming | Python, C++, Java |
+| Testing | JUnit, pytest |
+| AI & Computer Vision | PyTorch, MMDetection, OpenCV, PIL |
+| Web interfaces | Streamlit |
+| Databases | PostgreSQL |
+| Embedded | STM32, PCB design and soldering |
+| Environment | Docker, Linux, Bash |
+| Version control | Git, GitHub |
+| Documentation | LaTeX |
+
+## Highlights
+
+- 🛰️ **BSc thesis:** onboard computer software for a satellite in C++, running on an STM32 board whose PCB I designed and soldered myself
+- 🧪 **Teaching assistant (Java, 2025/26 spring):** led lab sessions and created exam assignments with automated JUnit tests
+- 🔍 **RAG prototype** for searching PDF documents
+
+## Outside of tech
+
+🎆 Licensed pyrotechnician: every year I work on the August 20 fireworks show in Hungary, sell fireworks at the end of the year, and do stage special effects at concerts.
+🪂 Former skydiver, planning to get back to it.
 
 ---
 
-# 🇬🇧 About Me  
-I hold a BSc degree in Computer Engineering and I am currently pursuing an MSc in Computer Science (Software Engineering track) – both at the **University of Szeged (SZTE)**.  
-I work with AI-driven solutions, Python-based development, and data-centric projects.  
-I also enjoy working with embedded and microcontroller-based systems.
+<details>
+<summary>🇭🇺 Magyarul</summary>
 
-Outside the technical world, things get a bit more explosive (sometimes literally):
-- 🎆 I'm a **licensed pyrotechnician**, working every year at Hungary’s **August 20 National Fireworks Show**  
-- 🎇 At the end of the year, I work in pyrotechnics sales  
-- 🪂 I used to **skydive**, and I plan to return to it  
+Mérnökinformatikus vagyok (BSc, SZTE), **szoftverfejlesztői / QA** pozíciót keresek.
+2022 óta az SZTE-n dolgozom tudományos munkatársként Python-alapú MI- és gépi látás projekteken (ipari, orvosi és autóipari területen). Szakdolgozatomban egy műhold fedélzeti számítógépének szoftverét írtam C++-ban, saját tervezésű STM32-es NYÁK-on. Egy félévig Java demonstrátor voltam, automatizált JUnit tesztekkel ellenőrzött ZH-feladatokat készítettem.
 
-I enjoy projects where I can develop, experiment, process data, and build systems that actually *do* something meaningful.
-
-## 🛠️ Key Areas
-- **Python** (data processing, ML, automation)
-- **AI / Machine Learning**
-- **Data Science**
-- **Embedded systems / microcontrollers**
+Szabadidőmben pirotechnikus vagyok, korábban ejtőernyőztem is.
+</details>
