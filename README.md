@@ -1,6 +1,6 @@
 # Hi, I'm Pál Kiszel 👋
 
-**Computer Science Engineer (BSc, University of Szeged)** looking for a **software development / QA** role.
+**Computer Science Engineer (BSc, University of Szeged)**.
 
 Since 2022 I have been working as a **Research Associate at the University of Szeged (SZTE)** on Python-based AI and computer vision projects for industrial, medical and automotive partners: dataset annotation and verification, object detection model training, validation and testing, Streamlit interfaces for data visualization, and technical documentation.
 
